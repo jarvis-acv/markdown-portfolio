@@ -1,4 +1,4 @@
-<ul type="*">
+<ul list-style-type="star">
 <Li>item1</Li>
 <Li>item2</Li>
 <Li>item3</Li>
