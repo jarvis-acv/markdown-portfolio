@@ -1,5 +1,3 @@
-<ul list-style-type="none">
-<Li>-item1</Li>
-<Li>-item2</Li>
-<Li>-item3</Li>
-</ul>
+* item 1
+* item 2
+* item 3
