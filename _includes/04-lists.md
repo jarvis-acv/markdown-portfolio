@@ -1,5 +1,5 @@
-<ul list-style-type="star">
-<Li>item1</Li>
-<Li>item2</Li>
-<Li>item3</Li>
+<ul list-style-type="none">
+<Li>-item1</Li>
+<Li>-item2</Li>
+<Li>-item3</Li>
 </ul>
